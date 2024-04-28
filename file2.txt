@@ -1,3 +1,3 @@
 this is file2.txt
 this line was added in our local git repo
-this line was addes in GitHub
+this line was added in GitHub
